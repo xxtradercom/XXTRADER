@@ -37,3 +37,5 @@ XXTrader ensures secure and sustainable operations by implementing specific rule
 - Withdrawal Frequency: Withdrawals can be made once every 24 hours. This rule ensures fair transaction management and balanced processing for all users.
 - Withdrawal Processing Time: Withdrawal requests are processed within 0-24 hours after submission. XXTrader is committed to ensuring all transactions are completed securely and promptly.
 **Note**: XXTrader processes withdrawal requests in accordance with these rules to ensure maximum efficiency and security. Requests that do not comply with these conditions will not be processed. All rights regarding the operation of the platform are reserved by XXTrader.
+
+more: https://xxtrader.com/ and https://xxtrader.com/documentation/
